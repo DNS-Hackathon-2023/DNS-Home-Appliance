@@ -18,7 +18,7 @@ intentions:
 		
     low config effort
 		
-    low risk
+    low risk to break things
 
 goal:
 
