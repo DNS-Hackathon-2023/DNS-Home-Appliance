@@ -8,7 +8,7 @@ intentions:
     do not rely on crappy provider DNS services
     check about errors
     verify IPv6 working
-    Use very low electric power for an allways on device (goal <4W)
+    Use very low electric power for an always on device (goal <4W)
  
  conditions:
  
